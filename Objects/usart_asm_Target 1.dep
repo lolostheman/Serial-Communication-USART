@@ -1,0 +1,4 @@
+Dependencies for Project 'usart_asm', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32l476xx.s)(0x566B7336)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\EGRE364Fall2016\Code\USART\RTE-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "STM32L476xx SETA 1"--list .\listings\startup_stm32l476xx.lst --xref -o .\objects\startup_stm32l476xx.o --depend .\objects\startup_stm32l476xx.d)
+F (.\usart.s)(0x57FFDACB)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\EGRE364Fall2016\Code\USART\RTE-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "STM32L476xx SETA 1"--list .\listings\usart.lst --xref -o .\objects\usart.o --depend .\objects\usart.d)
+I (stm32l476xx_constants.s)(0x563FF2A9)
